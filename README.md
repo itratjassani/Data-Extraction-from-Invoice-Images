@@ -19,7 +19,11 @@ Ensuring the accuracy of the extracted phone numbers poses a challenge, especial
 Integrating the program with existing invoicing or data management systems may require additional customization.
 
 ## Results
-
+Input: 
+![For Test](https://github.com/itratjassani/Data-Extraction-from-Invoice-Images/assets/35358807/428883ac-e80b-47cf-9f0d-5ae16e575277)
+Output: 
+<br>
+![image](https://github.com/itratjassani/Data-Extraction-from-Invoice-Images/assets/35358807/84e092af-4397-4376-867d-1684d42a2b0f)
 
 
 ## Conclusion:
