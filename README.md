@@ -4,6 +4,11 @@
 
 Many businesses deal with handwritten invoices, which can be time-consuming to process manually. To streamline this process, a program has been developed to extract text and relevant data, such as phone numbers and emails, from handwritten invoice images. The primary goal is to automate the extraction process, improving efficiency and reducing errors associated with manual data entry.
 
+## Process Flow
+
+![image](https://github.com/itratjassani/Data-Extraction-from-Invoice-Images/assets/35358807/03c0938d-d0f6-4caf-8f72-98d6d07bc6c9)
+
+
 ## Challenges:
 
 1. Handwriting Variability:
